@@ -1,0 +1,1 @@
+this program just takes your numbers and sorts them using QuickSort. It picks one number (pivot), puts it in the right spot, and pushes smaller numbers to the left and bigger ones to the right. Then it keeps repeating the same for left and right parts until everything falls into place. In the end, boom — your array comes out fully sorted from smallest to biggest.
